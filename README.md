@@ -1,6 +1,8 @@
-# Interactive Shape Drag  
-**Usage Instructions**
+# Interactive Shape Drag 
+**A fun and interactive game that uses hand tracking to control geometric shapes!**  
+This project combines computer vision and generative visuals to create a simple game where the user drags shapes into corresponding holes using their index finger, detected through the webcam. Developed with **p5.js** and **ml5.js**, it provides an intuitive, gesture-based experience.
 
+![logica](https://github.com/user-attachments/assets/82e42587-d7a7-443d-a5a2-eb5a9ce92792)
 ---
 
 ## Requirements  
